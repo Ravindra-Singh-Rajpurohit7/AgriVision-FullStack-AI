@@ -1,0 +1,31 @@
+# ==========================================
+# 💻 FRONTEND (React)
+# ==========================================
+node_modules/
+/build
+/.pnp
+.pnp.js
+/coverage
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================================
+# 🐍 BACKEND (Python / FastAPI / Docker)
+# ==========================================
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+.pytest_cache/
+.DS_Store
