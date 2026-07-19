@@ -222,6 +222,7 @@ Response:
 ---
 
 # 👨‍💻 Author
+Ravindra Singh Rajpurohit
 
 Developed as a Deep Learning and MLOps project demonstrating:
 
